@@ -10,7 +10,7 @@
   "collegeName": "IIITH",
   "baseUrl": "wc-iiith.vlabs.ac.in",
   "introduction": "The Wireless Communications Lab offers hands-on experiments that bridge theory and simulation, guiding students through core wireless concepts from basic path loss to complex systems like OFDM. It enables students to control simulations for deeper conceptual understanding.",
-  "experiment":[
+  "experiments":[
   {
     "name": "Pathloss and Shadowing",
     "short-name": "pathloss-shadowing",
