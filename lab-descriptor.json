@@ -15,63 +15,63 @@
     "name": "Pathloss and Shadowing",
     "short-name": "pathloss-shadowing",
     "repo": "https://github.com/virtual-labs/exp-pathloss-shadowing-iiith",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Outage probability and cell coverage",
     "short-name": "outage-probability-cell-coverage",
     "repo": "https://github.com/virtual-labs/exp-outage-probability-iiith",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Two ray model based wireless channels",
     "short-name": "two-ray-model-wireless",
     "repo": "https://github.com/virtual-labs/exp-two-ray-model-iiith",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Wireless Fading Channel: Clarke’s Model",
     "short-name": "clarke-fading-model",
     "repo": "https://github.com/virtual-labs/exp-clarke-model-iiith",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Spatial diversity (SIMO, MISO)",
     "short-name": "spatial-diversity",
     "repo": "https://github.com/virtual-labs/exp-spatial-diversity-iiith",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Spatial multiplexing (MIMO)",
     "short-name": "spatial-multiplexing",
     "repo": "https://github.com/virtual-labs/exp-spatial-multiplexing-iiith",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Multiplexing vs. Diversity",
     "short-name": "multiplexing-vs-diversity",
     "repo": "https://github.com/virtual-labs/exp-multiplexing-vs-diversity-iiith",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Receiver architecture: ZF and MMSE",
     "short-name": "receiver-architecture-zf-mmse",
     "repo": "https://github.com/virtual-labs/exp-architecture-zf-mmse-iiith",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Orthogonal frequency division multiplexing",
     "short-name": "ofdm",
     "repo": "https://github.com/virtual-labs/exp-orthogonal-multiplexing-iiith",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   }
 ],
